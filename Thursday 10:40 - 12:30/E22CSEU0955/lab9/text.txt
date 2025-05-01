@@ -1,0 +1,9 @@
+https://www.kaggle.com/code/funky15/mnist-object-detection-v3-yolo-w-data-import
+
+https://www.youtube.com/watch?v=6bZeCs0xwO4
+
+https://docs.ultralytics.com/datasets/classify/mnist/#applications
+
+https://github.com/doguilmak/Object-Detection-with-Faster-R-CNN/blob/main/use_objectdetection_faster_r_cnn.ipynb
+
+https://github.com/Hulkido/RCNN/blob/master/RCNN.ipynb
