@@ -2,15 +2,13 @@ Computer Vision and Video Analytics Assignments
 This repository contains all the assignments for the Computer Vision and Video Analytics subject.
 
 📁 Contents
-Each assignment is provided in :
+Each assignment is provided in .pdf format 
 
-.docx (Microsoft Word)
 👨‍💻 Author
 Made with dedication by:
-
 Akash Bartwal
-Roll Number: E22CSEU0297
 
+Roll Number: E22CSEU0297
 📚 Subject
 Computer Vision and Video Analytics
 Bachelor of Technology – Computer Science & Engineering
