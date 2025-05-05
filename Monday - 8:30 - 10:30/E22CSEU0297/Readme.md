@@ -2,7 +2,10 @@ Computer Vision and Video Analytics Assignments
 This repository contains all the assignments for the Computer Vision and Video Analytics subject.
 
 📁 Contents
-Each assignment is provided in .pdf format 
+Each assignment is provided in two formats:
+ .pdf format 
+
+ .ipynb format
 
 👨‍💻 Author
 Made with dedication by:
